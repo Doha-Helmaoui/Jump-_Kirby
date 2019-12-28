@@ -4,8 +4,6 @@
 
 KIRBY IS HERE !
 it's a MiniGame wich the charcter (kirby) jumps between the clouds.
-
-##Tutorial section:
 it's easy to play, you need just to use your keyboard Move(right_left).
 
 ## Screenshot:
