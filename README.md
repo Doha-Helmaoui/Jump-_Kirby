@@ -7,7 +7,7 @@ it's a MiniGame wich the charcter (kirby) jumps between the clouds.
 
 
 ## Screenshot:
-<img src="screenshot\jk.PNG" />
+<img src="Screenshot\jk.PNG" />
 
 ## Game logic:
 Gravity (pushDown)
